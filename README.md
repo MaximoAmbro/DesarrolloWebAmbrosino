@@ -2,7 +2,7 @@
 
 ---
 
-## 👨‍💻 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - HTML5
 - CSS3 (Flexbox y Media Queries)
