@@ -1,0 +1,54 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.site-header, .site-footer {
+  background-color: #222;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.date {
+  font-size: 0.9rem;
+  color: #ccc;
+}
+
+.main-nav {
+  display: none;
+}
+
+.hamburger {
+  font-size: 1.5rem;
+  display: block;
+  text-align: right;
+  margin: 0.5rem;
+}
+
+.content {
+  padding: 1rem;
+}
+
+.main-news img {
+  width: 100%;
+  height: auto;
+}
+
+.secondary-news h2 {
+  font-size: 1rem;
+  margin: 0.5rem 0;
+}
+
+.ads .ad {
+  background-color: #ddd;
+  text-align: center;
+  padding: 1rem;
+  margin: 1rem 0;
+}

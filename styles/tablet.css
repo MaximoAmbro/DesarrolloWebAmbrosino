@@ -1,0 +1,34 @@
+.main-nav {
+  display: flex;
+  justify-content: center;
+  background-color: #444;
+}
+
+.main-nav ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+
+.main-nav li {
+  margin: 0 1rem;
+}
+
+.main-nav a {
+  color: white;
+  text-decoration: none;
+}
+
+.hamburger {
+  display: none;
+}
+
+.secondary-news {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.secondary-news article {
+  flex: 1 1 calc(50% - 1rem);
+}

@@ -1,0 +1,22 @@
+.content {
+  display: flex;
+  gap: 1rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.main-news {
+  flex: 2;
+}
+
+.secondary-news {
+  flex: 1;
+}
+
+.ads {
+  flex: 1;
+}
+
+.ads .ad {
+  height: 250px;
+}
