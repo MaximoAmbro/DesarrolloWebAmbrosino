@@ -30,11 +30,6 @@ La funcionalidad agregada corresponde a la clase 10 e incluye validaciones, env√
 - CSS3 (Flexbox y Media Queries)
 - JavaScript (DOM, eventos, validaciones, fetch, localStorage)
 
-## Visualizaci√≥n online
-
-El proyecto puede verse en GitHub Pages:  
-https://maximoambro.github.io/DesarrolloWebAmbrosino/
-
 ## Fecha
 
 26 de junio de 2025
